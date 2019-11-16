@@ -1,0 +1,13 @@
+{
+	"file": "/home/madalena/Desktop/Thesis/DME_Results/73.csv",
+	"name": "73",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "dataset" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 7 }
+	]
+}
